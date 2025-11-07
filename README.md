@@ -30,6 +30,7 @@ I'm passionate about the latest trends in Generative AI and building intelligent
 ## 📫 How to Reach Me
 - GitHub: [@Manitchahar](https://github.com/Manitchahar)
 - Location: India
+- - Instagram: [@manitchahar](https://instagram.com/manitchahar)
 
 ---
 
