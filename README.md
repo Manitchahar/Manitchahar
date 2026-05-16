@@ -37,6 +37,10 @@ I like turning rough AI ideas into working tools: agentic workflows, retrieval s
 - Improving practical AI workflows for incident intelligence, document processing, and developer automation
 - Contributing small, useful fixes to open-source AI/OCR tooling
 
+## Open Source
+
+- Merged contributor to [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR/pull/104), improving layout configuration handling and test coverage.
+
 ## Reach Me
 
 - LinkedIn: [manit-kumar-ai](https://www.linkedin.com/in/manit-kumar-ai/)
