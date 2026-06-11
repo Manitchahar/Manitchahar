@@ -12,16 +12,18 @@ I like turning rough AI ideas into working tools: agentic workflows, retrieval s
 - OCR/document AI workflows, including human-in-the-loop review for sensitive outputs
 - Cloud AI experiments across Azure OpenAI, Google Vertex AI, AWS, and local model tooling
 
-## Selected Work
+## Featured Projects
 
 | Project | What it shows |
 | --- | --- |
 | [gemini-claw](https://github.com/Manitchahar/gemini-claw) | Telegram-native Gemini CLI operator with private allowlisted chats, task workers, session continuity, stream-JSON parsing, and safety controls. |
-| [jules-foreman](https://github.com/Manitchahar/jules-foreman) | TypeScript CLI for delegating local coding tasks to multiple Jules sessions with candidate racing and local arbitration. |
+| [RocketGuard-1B](https://github.com/Manitchahar/RocketGuard-1b) | Fine-tuned MiniCPM5-1B model for guardrail and agent safety decisions (allow/block/rewrite/ask). Weights on [Hugging Face](https://huggingface.co/Manitchahar/RocketGuard-1b). |
+| [ADK-Agents](https://github.com/Manitchahar/ADK-Agents) | Google ADK multi-agent prototype with background workers, MCP tools, memory hooks, and eval scaffolding. |
+| [bloom](https://github.com/Manitchahar/bloom) | AI Content Marketing SaaS — multi-format text generation, image generation, and content improvement (48-hour challenge build). |
+| [thousand-token-quest](https://github.com/Manitchahar/thousand-token-quest) | Retro Gradio RPG that turns your resume into a playable career adventure (Build Small Hackathon). |
 | [GLM-OCR contribution](https://github.com/zai-org/GLM-OCR/pull/104) | Merged open-source fix to a 6k+ star OCR project: layout config `id2label` support, safer missing mapping behavior, and unit tests. |
-| [PDF-Extract](https://github.com/Manitchahar/PDF-Extract) | TypeScript utility work around large PDF splitting/extraction workflows. |
-| [LLama-rag-chat](https://github.com/Manitchahar/LLama-rag-chat) | Retrieval-augmented chat experiments with local/LLM-backed document search. |
-| [EduGenie](https://github.com/Manitchahar/EduGenie) | Personalized learning / AI tutor experiments with lesson and quiz generation ideas. |
+
+> **Note:** This profile is a public timeline — everything stays visible. Some repos are polished products, most are learning experiments. The featured projects above are the ones worth clicking first.
 
 ## Core Stack
 
